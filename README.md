@@ -7,7 +7,7 @@
 #### Контакты:
 
 [![telegram](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dmi_em)
-[![email](https://img.shields.io/badge/Mail.Ru-blue?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:goldlike888@gmail.com)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goldlike888@gmail.com)
 
 ---
 
