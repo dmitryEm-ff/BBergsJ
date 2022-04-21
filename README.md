@@ -18,16 +18,21 @@
 2. [SQL & JDBC, GC and OOD](https://github.com/BBergsJ/job4j_design)
 3. [Multithreading in Java](https://github.com/BBergsJ/job4j_threads)
 ##### Проекты:
-1. Проект "Конвертер URL".
-2. Форум Spring boot.
-3. Проект "Автонарушители". Ссылка на ваш heroku.
-4. Проект. "Работа мечты"
-5. Проект. "JMS - Pooh"
-6. Проект "TODO лист". Работа через REST API. 
-7. Проект "Cinema".
-8. Проект "grabber сайта вакансий".
-9. Утилиты zip, find.
-10. Проект "Tracker". 
+1. [Проект "Конвертер URL"](https://github.com/BBergsJ/job4j_url_shortcut)
+2. [Форум Spring boot](https://github.com/BBergsJ/job4j_forum)
+3. [Проект "Автонарушители"](https://github.com/BBergsJ/job4j_car_accident)
+4. [Проект. "Работа мечты"](https://github.com/BBergsJ/job4j_dreamjob)
+5. [Проект. "JMS - Pooh"](https://github.com/BBergsJ/job4j_pooh)
+6. [Проект "TODO лист"](https://github.com/BBergsJ/job4j_todo)
+7. [Проект "Cinema"](https://github.com/BBergsJ/job4j_cinema)
+8. [Проект "grabber сайта вакансий"](https://github.com/BBergsJ/job4j_grabber)
+9. [Утилиты zip, find](https://github.com/BBergsJ/job4j_elementary)
+10. [Проект "Tracker"](https://github.com/BBergsJ/job4j_tracker)
+11. [Проект "Площадка объявлений по продаже автомобилей"](https://github.com/BBergsJ/job4j_carshop)
+12. [REST service для модели "Person" и CRUD операции к нему](https://github.com/BBergsJ/job4j_auth)
+13. [Приложение "прогноз погоды", пример реактивного программирования](https://github.com/BBergsJ/weather_reactive)
+14. [Проект управления паспортами, Rest, RestTemplates, Docker, Kubernates](https://github.com/BBergsJ/weather_reactive)
+15. [Проект демонстрации работы Spring Cloud Discovery Service](https://github.com/BBergsJ/job4j_discovery_server)
 
 ---
 
