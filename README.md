@@ -13,12 +13,21 @@
 ---
 
 #### Мои проекты:
-##### Основы:
+##### Основы Java, решение задач:
 1. [Java SE](https://github.com/BBergsJ/job4j_elementary)
 2. [SQL & JDBC, GC and OOD](https://github.com/BBergsJ/job4j_design)
 3. [Multithreading in Java](https://github.com/BBergsJ/job4j_threads)
 ##### Проекты:
-1.
+1. Проект "Конвертер URL".
+2. Форум Spring boot.
+3. Проект "Автонарушители". Ссылка на ваш heroku.
+4. Проект. "Работа мечты"
+5. Проект. "JMS - Pooh"
+6. Проект "TODO лист". Работа через REST API. 
+7. Проект "Cinema".
+8. Проект "grabber сайта вакансий".
+9. Утилиты zip, find.
+10. Проект "Tracker". 
 
 ---
 
