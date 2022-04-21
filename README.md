@@ -26,13 +26,14 @@
 6. [Проект "TODO лист"](https://github.com/BBergsJ/job4j_todo)
 7. [Проект "Cinema"](https://github.com/BBergsJ/job4j_cinema)
 8. [Проект "grabber сайта вакансий"](https://github.com/BBergsJ/job4j_grabber)
-9. [Утилиты zip, find](https://github.com/BBergsJ/job4j_elementary)
-10. [Проект "Tracker"](https://github.com/BBergsJ/job4j_tracker)
-11. [Проект "Площадка объявлений по продаже автомобилей"](https://github.com/BBergsJ/job4j_carshop)
-12. [REST service для модели "Person" и CRUD операции к нему](https://github.com/BBergsJ/job4j_auth)
-13. [Приложение "прогноз погоды", пример реактивного программирования](https://github.com/BBergsJ/weather_reactive)
-14. [Проект управления паспортами, Rest, RestTemplates, Docker, Kubernates](https://github.com/BBergsJ/weather_reactive)
-15. [Проект демонстрации работы Spring Cloud Discovery Service](https://github.com/BBergsJ/job4j_discovery_server)
+9. [Утилита search, использование FileVisitor для поиска файлов по расширению](https://github.com/BBergsJ/job4j_design/blob/master/chapter_002/src/main/java/ru/job4j/io/Search.java)
+10. [Утилита zip, для архивации папки, параметры передаются через аргументы](https://github.com/BBergsJ/job4j_design/blob/master/chapter_002/src/main/java/ru/job4j/io/Zip.java)
+11. [Проект "Tracker"](https://github.com/BBergsJ/job4j_tracker)
+12. [Проект "Площадка объявлений по продаже автомобилей"](https://github.com/BBergsJ/job4j_carshop)
+13. [REST service для модели "Person" и CRUD операции к нему](https://github.com/BBergsJ/job4j_auth)
+14. [Приложение "прогноз погоды", пример реактивного программирования](https://github.com/BBergsJ/weather_reactive)
+15. [Проект управления паспортами, Rest, RestTemplates, Docker, Kubernates](https://github.com/BBergsJ/weather_reactive)
+16. [Проект демонстрации работы Spring Cloud Discovery Service](https://github.com/BBergsJ/job4j_discovery_server)
 
 ---
 
