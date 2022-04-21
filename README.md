@@ -14,7 +14,7 @@
 
 #### Мои проекты:
 ##### Основы:
-1. [Java SE](https://github.com/BBergsJ/job4j)
+1. [Java SE](https://github.com/BBergsJ/job4j_elementary)
 2. [SQL & JDBC, GC and OOD](https://github.com/BBergsJ/job4j_design)
 3. [Multithreading in Java](https://github.com/BBergsJ/job4j_threads)
 ##### Проекты:
