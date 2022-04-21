@@ -30,7 +30,7 @@
 10. [Утилита zip, для архивации папки, параметры передаются через аргументы](https://github.com/BBergsJ/job4j_design/blob/master/chapter_002/src/main/java/ru/job4j/io/Zip.java)
 11. [Проект "Tracker"](https://github.com/BBergsJ/job4j_tracker)
 12. [Проект "Площадка объявлений по продаже автомобилей"](https://github.com/BBergsJ/job4j_carshop)
-13. [REST service для модели "Person" и CRUD операции к нему](https://github.com/BBergsJ/job4j_auth)
+13. [REST service для модели "Person" и CRUD операции к нему](https://github.com/BBergsJ/jobj4_auth)
 14. [Приложение "прогноз погоды", пример реактивного программирования](https://github.com/BBergsJ/weather_reactive)
 15. [Проект управления паспортами, Rest, RestTemplates, Docker, Kubernates](https://github.com/BBergsJ/weather_reactive)
 16. [Проект демонстрации работы Spring Cloud Discovery Service](https://github.com/BBergsJ/job4j_discovery_server)
